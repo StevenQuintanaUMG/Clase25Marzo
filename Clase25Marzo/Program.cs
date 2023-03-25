@@ -143,7 +143,7 @@ void nombres()
 }
 
 
-//Adivina();
-//buscarmayor();
-//arreglos();
+Adivina();
+buscarmayor();
+arreglos();
 nombres();
